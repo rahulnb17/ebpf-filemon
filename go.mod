@@ -1,4 +1,4 @@
-module github.com/rahul174nb-git/ebpf-filemon
+module github.com/suchit07-git/filemon
 
 go 1.24.1
 
